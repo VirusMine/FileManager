@@ -35,7 +35,7 @@ namespace FileManagerComandsList
         /// <summary>
         /// проверка на правильность введенной команды
         /// </summary>
-        /// <param name="comand"></param>
+        /// <param name="command"></param>
         /// <returns></returns>
         public string ExecuteComand(string comand)
         {
